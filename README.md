@@ -13,7 +13,7 @@
 <!-- [<img align="left" alt="adityaherlambang.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 <!-- [<img align="left" alt="Aditya | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 <!-- [<img align="left" alt="Aditya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
-[![Linkedin](https://img.shields.io/badge/-aditya-herlambang-blue?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-herlambang/)](https://www.linkedin.com/in/aditya-herlambang/)
+[![Linkedin](https://img.shields.io/badge/-aditya-blue?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-herlambang/)](https://www.linkedin.com/in/aditya-herlambang/)
 [![Instagram](https://img.shields.io/badge/-@adityahrl-purple?style=flat-square&labelColor=gray&logo=instagram&logoColor=white&link=https://instagram.com/adityahrl/)](https://instagram.com/adityahrl)
 
 <br />
