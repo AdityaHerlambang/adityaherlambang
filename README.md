@@ -1,6 +1,6 @@
 ### Hi there, I'm Aditya Herlambang (Adit) !
 
-## I'm a Software Engineer
+### I'm a Software Engineer
 
 - 🧑🏻‍💻 Currently working as Cross-Platform and Native Mobile App Developer
 - 📚 I’m currently learning everything related to Software Development and Tech in general 😀
