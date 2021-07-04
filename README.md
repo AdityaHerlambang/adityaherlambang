@@ -41,8 +41,10 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][linkedin]
 
 <br />
+<br />
 
 ---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaherlambang&layout=compact&count_private=true)](https://github.com/adityaherlamban/github-readme-stats)
 
 <!-- [website]: https://adityaherlambang.com -->
