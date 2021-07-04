@@ -15,8 +15,8 @@
 <!-- [<img align="left" alt="Aditya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
 [<img align="left" alt="Aditya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Aditya | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[![Linkedin](https://img.shields.io/badge/-anvaqta-blue?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anvaqta/)](https://www.linkedin.com/in/aditya-herlambang/)
-[![Instagram](https://img.shields.io/badge/-@anvaqta-purple?style=flat-square&labelColor=gray&logo=instagram&logoColor=white&link=https://instagram.com/anvaqta/)](https://instagram.com/adityahrl)
+[![Linkedin](https://img.shields.io/badge/-aditya-blue?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-herlambang/)](https://www.linkedin.com/in/aditya-herlambang/)
+[![Instagram](https://img.shields.io/badge/-@aditya-purple?style=flat-square&labelColor=gray&logo=instagram&logoColor=white&link=https://instagram.com/adityahrl/)](https://instagram.com/adityahrl)
 
 <br />
 
