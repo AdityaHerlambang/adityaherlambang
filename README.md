@@ -1,4 +1,4 @@
-### Hi there, Aditya Herlambang (Adit) !
+### Hi there, I'm Aditya Herlambang (Adit) !
 
 ## I'm a Software Engineer
 
