@@ -4,7 +4,7 @@
 
 - 🧑🏻‍💻 Currently working as Cross-Platform and Native Mobile App Developer
 - 📚 I’m currently learning everything related to Software Development and Tech in general 😀
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other software developer
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play piano
 
