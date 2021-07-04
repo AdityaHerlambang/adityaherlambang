@@ -1,7 +1,5 @@
 ### Hi there, Aditya Herlambang (Adit) !
 
-![](https://hitx.vercel.app/counter/?id=https://github.com/adityaherlambang/adityaherlambang&t=github%20views)
-
 ## I'm a Software Engineer
 
 - 🧑🏻‍💻 Currently working as Cross-Platform and Native Mobile App Developer
@@ -44,6 +42,8 @@
 
 <br />
 <br />
+
+![](https://hitx.vercel.app/counter/?id=https://github.com/adityaherlambang/adityaherlambang&t=github%20views)
 
 <!-- [website]: https://adityaherlambang.com -->
 [instagram]: https://instagram.com/adityahrl
