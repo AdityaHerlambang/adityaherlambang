@@ -19,8 +19,7 @@
 <br />
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaherlambang&layout=compact)](https://github.com/adityaherlamban/github-readme-stats)
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaherlambang&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaherlambang&layout=compact&count_private=true)](https://github.com/adityaherlamban/github-readme-stats)
 
 <!-- [website]: https://adityaherlambang.com -->
 [instagram]: https://instagram.com/adityahrl
