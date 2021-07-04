@@ -1,4 +1,9 @@
 ### Hi there, Aditya Herlambang (Adit) !
+<br />
+
+![](https://hitx.vercel.app/counter/?id=https://github.com/adityaherlambang/adityaherlambang&t=github%20views)
+
+<br />
 
 ## I'm a Software Engineer
 
@@ -42,10 +47,6 @@
 
 <br />
 <br />
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaherlambang&layout=compact&count_private=true)](https://github.com/adityaherlamban/github-readme-stats)
 
 <!-- [website]: https://adityaherlambang.com -->
 [instagram]: https://instagram.com/adityahrl
