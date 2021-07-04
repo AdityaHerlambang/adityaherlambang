@@ -1,9 +1,6 @@
 ### Hi there, Aditya Herlambang (Adit) !
-<br />
 
 ![](https://hitx.vercel.app/counter/?id=https://github.com/adityaherlambang/adityaherlambang&t=github%20views)
-
-<br />
 
 ## I'm a Software Engineer
 
