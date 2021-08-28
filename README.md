@@ -2,11 +2,7 @@
 
 ### I'm a Software Engineer
 
-- 🧑🏻‍💻 Mobile & Web App Developer
-- 📚 I’m currently learning everything related to Software Development and Tech in general 😀
-- 👯 I’m looking to collaborate with other software developer
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play piano
+- 🧑🏻‍💻 Currently working as Java Engineer.
 
 ### Connect with me:
 
