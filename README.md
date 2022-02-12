@@ -1,9 +1,5 @@
 ### Hi there, I'm Aditya Herlambang (Adit) !
 
-### I'm a Software Engineer
-
-- 🧑🏻‍💻 Currently working as Java Engineer.
-
 ### Connect with me:
 
 <!-- [<img align="left" alt="adityaherlambang.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
